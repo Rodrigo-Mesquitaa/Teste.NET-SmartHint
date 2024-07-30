@@ -1,0 +1,49 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.suo
+*.vscode/
+*.csproj.user
+*.csproj.DotSettings
+*.csproj.DotSettings.user
+*.csproj.user
+*.csproj.DotSettings
+*.suo
+*.tmp
+*.swp
+*.log
+*.pidb
+*.booproj
+*.dmp
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.snk
+
+# Visual Studio
+.vs/
+*.vs/
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+*.local
+*.local.xml
+*.yml
+*.yaml
+
+# Environment-specific files
+.env
+.env.*
